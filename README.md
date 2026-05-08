@@ -37,17 +37,7 @@ limkokwing-library-api/
 How to Run the Project
 Step 1 – Install Python
 
-Make sure Python 3 is installed on your computer.
 
-You can check using:
-
-python --version
-Step 2 – Clone the Repository
-git clone https://github.com/your-username/limkokwing-library-api.git
-Step 3 – Open the Project Folder
-cd limkokwing-library-api
-Step 4 – Run the Program
-python library_api.py
 Example Output
 --- ALL BOOKS ---
 {'id': 1, 'title': 'Python Basics', 'author': 'John Doe', 'category': 'Programming', 'available': True}
